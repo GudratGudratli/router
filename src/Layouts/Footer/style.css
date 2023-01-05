@@ -1,0 +1,23 @@
+.footer{
+    min-height: 20vh;
+    width: 100%;
+    font-size: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    color:#333232;
+}
+.icons{
+    display: flex;
+    gap: 20px;
+    color:#333232;
+}
+.footer p{
+    font-size: 15px;
+}
+
+.footer .icons a{
+    text-decoration: none;
+}
